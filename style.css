@@ -1,0 +1,11 @@
+body {
+    background-color: whitesmoke;
+}
+div.one {
+     color: gold;
+     text-align: center;
+}
+nav.Navigation {
+    text-align: center;
+    color: tomato;
+}
