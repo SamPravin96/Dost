@@ -2,10 +2,7 @@ body {
     background-color: whitesmoke;
 }
 div.one {
-     color: gold;
+     color: red;
      text-align: center;
 }
-nav.Navigation {
-    text-align: center;
-    color: tomato;
-}
+
